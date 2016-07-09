@@ -1,0 +1,14 @@
+Package: AchalNLP
+Type: Package
+Title: Build text prediction model
+Version: 1.0
+Author: Achal Shah
+Maintainer: Achal Shah <achalshah20@gmail.com>
+Description: Library to sample and clean text data, build ngram model, predict next word using backoff
+    algorithms etc.
+License: GPL-3
+LazyData: True
+RoxygenNote: 5.0.1
+Depends: tm,qdap,RWeka,dplyr
+NeedsCompilation: no
+Packaged: 2016-07-09 02:43:13 UTC; Mr.Lazy
